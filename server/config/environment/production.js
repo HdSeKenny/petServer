@@ -8,7 +8,7 @@ module.exports = {
   ip: process.env.OPENSHIFT_NODEJS_IP || process.env.ip || undefined,
 
   // Server port
-  port: 9000,
+  port: 3000,
 
   // MongoDB connection options
   mongo: {

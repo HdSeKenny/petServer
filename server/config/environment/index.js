@@ -11,7 +11,7 @@ const all = {
 
     host: '127.0.0.1',
     //server port
-    port: 9000,
+    port: 3000,
 
     //server IP
     ip: process.env.IP || '0.0.0.0',
